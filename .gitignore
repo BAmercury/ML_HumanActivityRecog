@@ -60,3 +60,15 @@ data/train/y_train.txt
 ncd.py
 
 UCI HAR Dataset.names
+
+bz2.txt
+
+Stand1.txt
+
+Stand2.txt
+
+Walk1.txt
+
+Walk2.txt
+
+zlib.txt
